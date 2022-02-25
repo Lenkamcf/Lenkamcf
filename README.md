@@ -1,4 +1,4 @@
-<h1 align="center">Hello!, I'm Lenka Chavez</h1>
+<h1 align="center">Hello!, I'm Lenka Chavez 👩🏻‍💻</h1>
 <h3 align="center">An Architect who decided to switch to software development to reach the dream of build digital products</h3>
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=lenkamcf&show_icons=true&theme=radical"/> 
